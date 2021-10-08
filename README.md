@@ -72,17 +72,10 @@
  - 사용자는 움직임 감지 기능을 통해 실시간으로 집의 움직임을 파악할 수 있습니다. 
  
  - 사용자가 외출한 집에서 외출한 경우 집에서 움직임이 발생했을 때 사용자에게 알림을 통해 움직임을 감지했다는 신호를 보낼 수 있습니다.
- 
-<br><br>
 
 ## 4. 시연동영상
+http://www.youtube.com/watch?v=jAA_5qlYGaA
  
 ## 5. 만든이
 * **박원용** -*University : Sunkyul Univ* -
 * **정은지** -*University : Sunkyul Univ* -
-
-
-
-
-
-
